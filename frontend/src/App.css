@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.tag-list {
+
+}
+
+.tag-list-item:hover {
+  background-color: #e9e9e9;
+}
